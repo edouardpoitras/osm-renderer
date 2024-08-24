@@ -11,7 +11,7 @@ byteorder = "*"
 indexmap = "*"
 memmap2 = "*"
 png = "*"
-quick-xml = "*"
+quick-xml = "<=0.33"
 stb_truetype = "*"
 tini = "*"
 
